@@ -28,5 +28,5 @@ def calculator():
             st.write(f"The quotient of {num1} and {num2} is {result}")
 
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     calculator()
